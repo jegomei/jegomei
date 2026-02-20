@@ -13,7 +13,7 @@ Aquí puedes ver alguna de las páginas que he creado:
 
 Con esta aplicación web puedes controlar el tiempo que tiene cada jugador a la hora de echar partidas a juegos de mesa. ¿De dónde surge la idea de hacer esta página? Pues del típico amigo, que todos tenemos, que tarda horas en jugar sus turnos... al final, con los años, le tienes cariño y no le mandas a la mierda, pero el tener un temporizador le mete presión y le hace darse cuenta de que ya vale la broma, que hay que escoger una p**a carta ya y pasar turno.
 
-<img src="images/bgtime.png" width="500">
+<img src="images/BGTime.png" width="500">
 
 **Tecnologías:**  
 - HTML  
