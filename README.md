@@ -6,6 +6,11 @@ Me ayudo muchisimo de la IA, de CLaude en concreto.
 Las páginas que construyo son, por ejemplo, ideas que alguna vez he pensado "eh, estaría muy bien una app que hiciese esto" o juegos de retos diarios con los que picarme con mi pareja.
 Al no tener una base de programación, disfruto aprendiendo lo que se puede hacer, lo que falla y añadiendo mejoras poco a poco intentando no romper lo anterior.
 
+En todos los proyectos, lo que busco es:
+* Que sean páginas web, no apps. Que no haga falta descargar nada.
+* Que no haya que registrarse.
+* Que no haya ningún anuncio.
+
 Aquí puedes ver alguna de las páginas que he creado:
 ---
 
