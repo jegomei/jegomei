@@ -1,15 +1,5 @@
 # Proyectos de Álvaro Iregui
 
-¡Hola! Bienvenido a mi repositorio de proyectos de desarrollo web.
-Antes de nada, avisarte: no he estudiado programación, estoy aprendiendo poco a poco, construyendo páginas web de proyectos sencillos y tratando de entender cómo funciona todo. 
-Me ayudo muchisimo de la IA, de CLaude en concreto.
-Las páginas que construyo son, por ejemplo, ideas que alguna vez he pensado "eh, estaría muy bien una app que hiciese esto" o juegos de retos diarios con los que picarme con mi pareja.
-Al no tener una base de programación, disfruto aprendiendo lo que se puede hacer, lo que falla y añadiendo mejoras poco a poco intentando no romper lo anterior.
-
-En todos los proyectos, lo que busco es:
-* Que sean páginas web, no apps. Que no haga falta descargar nada.
-* Que no haya que registrarse.
-* Que no haya ningún anuncio.
 
 Aquí puedes ver alguna de las páginas que he creado:
 ---
