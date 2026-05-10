@@ -1,35 +1,40 @@
-# Proyectos de Álvaro Iregui
+# Hola, soy Álvaro Iregui
 
+Estoy construyendo pequeñas apps web alrededor de una idea bastante concreta: juegos diarios, partidas rápidas y herramientas sencillas que apetezca usar desde el móvil.
 
-Aquí puedes ver alguna de las páginas que he creado:
----
+La mayoría de mis proyectos nacen de cosas que juego o uso con gente cercana: retos tipo Wordle/Quordle, puzzles diarios para comparar resultados, estadísticas entre dos personas y un temporizador para que las partidas de mesa no se alarguen hasta el infinito.
 
-## ⏱️ BGTime — Temporizador para juegos de mesa
+## Proyectos principales
 
-Con esta aplicación web puedes controlar el tiempo que tiene cada jugador a la hora de echar partidas a juegos de mesa. ¿De dónde surge la idea de hacer esta página? Pues del típico amigo, que todos tenemos, que tarda horas en jugar sus turnos... al final, con los años, le tienes cariño y no le mandas a la mierda, pero el tener un temporizador le mete presión y le hace darse cuenta de que ya vale la broma, que hay que escoger una p**a carta ya y pasar turno.
+| Proyecto | Qué es | Probar | Código |
+| --- | --- | --- | --- |
+| **Rivaldia** | App web para competir cada día con otra persona en varios puzzles, guardar resultados, ver historial y estadísticas. | [Abrir app](https://jegomei.github.io/Rivaldia/) | [Repositorio](https://github.com/jegomei/Rivaldia) |
+| **Cuordle** | Quordle en español: cuatro palabras a la vez, reto diario y resultado para compartir. | [Jugar](https://jegomei.github.io/Cuordle/) | [Repositorio](https://github.com/jegomei/Cuordle) |
+| **Cincoku** | Sudoku 5x5 diario, pensado para partidas rápidas desde el móvil, con cronómetro y resultado copiable. | [Jugar](https://jegomei.github.io/Cincoku/) | [Repositorio](https://github.com/jegomei/Cincoku) |
+| **Kakiku** | Puzzle diario tipo Shikaku, con modos 5x5 y 10x10, cronómetro y retos generados por fecha. | [Jugar](https://jegomei.github.io/kakiku/) | [Repositorio](https://github.com/jegomei/kakiku) |
+| **Sumply** | Reto diario inspirado en Sumplete: decidir qué números se quedan para cuadrar las sumas de filas y columnas. | [Jugar](https://jegomei.github.io/sumply/) | [Repositorio](https://github.com/jegomei/sumply) |
+| **BGTempo** | Temporizador para juegos de mesa, pensado para controlar turnos y mantener el ritmo de la partida. | [Abrir temporizador](https://jegomei.github.io/BGTempo/) | [Repositorio](https://github.com/jegomei/BGTempo) |
 
-<img src="images/BGTime.png" width="500">
+## Qué estoy explorando
 
-**Tecnologías:**  
-- HTML  
-- CSS  
+- Juegos diarios con el mismo reto para todo el mundo.
+- Experiencias web instalables en móvil, sin depender de tiendas de apps.
+- Guardado local, resultados copiables y flujos rápidos para compartir.
+- Estadísticas simples que convierten una partida diaria en una pequeña rivalidad.
+- Interfaces pequeñas, directas y pensadas para usarse con el pulgar.
+
+## Stack habitual
+
+Mis repos actuales están hechos principalmente con:
+
+- HTML
+- CSS
 - JavaScript
-- 
-👉 **[▶️ Probar juego](https://jegomei.github.io/BGTime/)**  
-👉 **[📂 Ver repositorio](https://github.com/jegomei/BGTime)**
+- GitHub Pages
+- PWA cuando el proyecto lo pide
 
----
+## La idea común
 
-## 🔤 Juego de palabras Quordle en español
+Me interesa crear herramientas y juegos que resuelvan una necesidad concreta sin mucha ceremonia: abrir, jugar, comparar, cerrar y volver mañana.
 
-Juego tipo Wordle, pero con cuatro palabras a la vez y nueve intentos (Quordle). Mi pareja y yo solíamos jugar en una web, pero quitaron el soporte en español, y otras webs similares que intentamos probar no nos gustaban... así que dejamos de jugar. Un día pensé "oye, que igual con IA se puede hacer un juego web recreando esa idea" y tras unas sesiones... se consiguió. Más o menos. Aún hay que mejorar las palabras que detecta el juego que se pueden usar (todos los adjetivos están en masculino, los verbos sin conjugar...) pero algo es algo. 
-
-<img src="images/cuordle.png" width="500">
-
-**Tecnologías:**  
-- HTML  
-- CSS  
-- JavaScript  
-
-👉 **[▶️ Probar juego](https://jegomei.github.io/Cuardle/)**  
-👉 **[📂 Ver repositorio](https://github.com/jegomei/cuordle)**
+Si estás viendo estos repos, probablemente encontrarás proyectos pequeños, bastante personales y en evolución. Algunos nacen como pruebas rápidas; otros van creciendo hasta conectarse entre sí, como los juegos diarios que forman parte de Rivaldia.
